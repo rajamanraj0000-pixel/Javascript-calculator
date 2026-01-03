@@ -43,7 +43,7 @@ Open index.html in any modern browser.
 
 After enabling GitHub Pages:
 
-https://rajamanraj0000-pixel.github.io/javascript-calculator/
+https://rajamanraj0000-pixel.github.io/Javascript-calculator/
 
 📸 Screenshot
 
